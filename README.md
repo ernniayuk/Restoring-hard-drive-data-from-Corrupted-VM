@@ -1,5 +1,5 @@
 # Restoring-hard-drive-data-from-Corrupted-VM
-In this repo, I worked through different methods in trying to rescue/exfiltrate data from a corrupted VM that would hang at the login screen.
+In this repo, I worked through different methods in trying to rescue/exfiltrate data from a corrupted VM that would hang at the login screen. Using methodology from the AWS solutionsn architect associate course, I saw similarities between the EFS, EC2, and EBS services and found ways to implement such methodology within the UTM environment. 
 
 ## 📋 Project Overview
 This document chronicles the complete recovery process of a corrupted UTM virtual machine, documenting both successful strategies and the valuable failures that led to the ultimate solution. This showcases iterative problem-solving methodology in system recovery.
