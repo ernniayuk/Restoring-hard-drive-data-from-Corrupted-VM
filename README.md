@@ -162,5 +162,14 @@ This recovery journey demonstrates that **failed attempts are not wasted effort*
 
 The ultimate success wasn't in breaking into the system, but in understanding it well enough to rebuild it properly around the intact components. This approach preserved all data while eliminating the corruption entirely - a cleaner outcome than any patch or repair could have achieved.
 
-<img width="1440" height="900" alt="Screenshot 2025-11-18 at 3 46 46 AM" src="https://github.com/user-attachments/assets/9708087f-ac5c-491b-a237-fe5772c222cd" />
-<img width="1440" height="900" alt="Screenshot 2025-11-18 at 3 47 28 AM" src="https://github.com/user-attachments/assets/8fc20217-5945-4f07-86c3-7d2a2a24a0dd" />
+<img width="1120" height="700" alt="Screenshot 2025-11-18 at 3 46 46 AM" src="https://github.com/user-attachments/assets/9708087f-ac5c-491b-a237-fe5772c222cd" />
+<img width="1120" height="700" alt="Screenshot 2025-11-18 at 3 47 28 AM" src="https://github.com/user-attachments/assets/8fc20217-5945-4f07-86c3-7d2a2a24a0dd" />
+<img width="1120" height="700" alt="Screenshot 2025-11-18 at 3 53 45 AM" src="https://github.com/user-attachments/assets/c11a4a8e-32d8-4a6e-94ff-9b7b9a81b64b" />
+<img width="1120" height="700" alt="Screenshot 2025-11-18 at 3 55 12 AM" src="https://github.com/user-attachments/assets/c230f2d8-9ccc-415c-825d-2f9808762699" />
+<img width="1120" height="700" alt="Screenshot 2025-11-18 at 3 56 22 AM" src="https://github.com/user-attachments/assets/16d077f7-8bc3-4227-9a67-ace7be7baddb" />
+<img width="1120" height="700" alt="Screenshot 2025-11-18 at 3 57 55 AM" src="https://github.com/user-attachments/assets/19b0189b-299d-469f-9568-2ce70a3217a5" />
+<img width="1120" height="700" alt="Screenshot 2025-11-18 at 3 58 06 AM" src="https://github.com/user-attachments/assets/55219f86-0109-4931-8482-24a678aea6d0" />
+<img width="1120" height="700" alt="Screenshot 2025-11-18 at 3 58 14 AM" src="https://github.com/user-attachments/assets/b62085bc-1a4b-4bcd-95c6-2d948386b490" />
+
+
+
