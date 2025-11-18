@@ -157,6 +157,10 @@ This recovery journey demonstrates that **failed attempts are not wasted effort*
 1. **Eliminated surface-level issues** as root causes
 2. **Understood what was actually working** in the system
 3. **Pivoted to a more fundamental architectural solution**
+
 4. **Achieved complete recovery** through creative reconstruction
 
 The ultimate success wasn't in breaking into the system, but in understanding it well enough to rebuild it properly around the intact components. This approach preserved all data while eliminating the corruption entirely - a cleaner outcome than any patch or repair could have achieved.
+
+<img width="1440" height="900" alt="Screenshot 2025-11-18 at 3 46 46 AM" src="https://github.com/user-attachments/assets/9708087f-ac5c-491b-a237-fe5772c222cd" />
+<img width="1440" height="900" alt="Screenshot 2025-11-18 at 3 47 28 AM" src="https://github.com/user-attachments/assets/8fc20217-5945-4f07-86c3-7d2a2a24a0dd" />
